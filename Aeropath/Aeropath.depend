@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728997251 source:e:\sem3\ads\project\aeropath\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
