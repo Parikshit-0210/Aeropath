@@ -16,7 +16,7 @@ AeroPath is a C++ application that helps users find the shortest flight routes b
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/AeroPath.git
+      git clone https://github.com/Parikshit-0210/AeroPath.git
    cd AeroPath
    ```
 2. Compile the program using g++:
